@@ -14,7 +14,7 @@
   src: url("/flicker/wp-content/themes/riverbank/assets/fonts/outfit/Outfit-VariableFont_wght.ttf") format("truetype");
 }
 
-:root {
+:root { 
   --ink: #20201e;
   --muted-ink: #5d5a54;
   --paper: #f7f3ec;
