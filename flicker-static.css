@@ -3,7 +3,7 @@
   font-style: normal;
   font-weight: 160 600;
   font-display: swap;
-  src: url("/wp-content/themes/riverbank/assets/fonts/fraunces/Fraunces-VariableFont_SOFTWONKopszwght.ttf") format("truetype");
+  src: url("/flicker/wp-content/themes/riverbank/assets/fonts/fraunces/Fraunces-VariableFont_SOFTWONKopszwght.ttf") format("truetype");
 }
 
 @font-face {
@@ -11,7 +11,7 @@
   font-style: normal;
   font-weight: 100 900;
   font-display: swap;
-  src: url("/wp-content/themes/riverbank/assets/fonts/outfit/Outfit-VariableFont_wght.ttf") format("truetype");
+  src: url("/flicker/wp-content/themes/riverbank/assets/fonts/outfit/Outfit-VariableFont_wght.ttf") format("truetype");
 }
 
 :root {
